@@ -22,7 +22,7 @@ This package is not yet on PyPI. To use it:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/advanced-lru-cache.git
+   git clone https://github.com/sudoXlite/advanced-lru-cache.git
    cd advanced-lru-cache
    ```
 
